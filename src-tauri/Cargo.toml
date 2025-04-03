@@ -1,7 +1,7 @@
 [package]
 name = "kotiphotos"
-version = "0.1.0"
-description = "A Tauri App"
+version = "0.0.1"
+description = "Смотрите фото с котиками на вашем ПК, сделанное на Rust и Tauri."
 authors = ["you"]
 edition = "2021"
 
